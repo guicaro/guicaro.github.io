@@ -1,0 +1,172 @@
+App.progressCountTotal = 21;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC00936.JPG');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'DSC00936.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00936_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00936_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00936_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00936_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00936_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00936_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC00941.JPG');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'DSC00941.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00941_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00941_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00941_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00941_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00941_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00941_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC00942.JPG');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'DSC00942.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00942_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00942_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00942_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00942_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00942_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00942_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC00944.JPG');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'DSC00944.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00944_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00944_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00944_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00944_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00944_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00944_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC00986.JPG');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'DSC00986.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00986_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00986_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC00986_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00986_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00986_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC00986_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01100.JPG');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'DSC01100.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01100_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01100_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01100_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01100_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01100_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01100_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01104.JPG');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'DSC01104.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01104_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01104_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01104_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01104_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01104_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01104_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01105.JPG');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'DSC01105.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01105_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01105_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01105_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01105_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01105_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01105_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01212.JPG');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'DSC01212.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01212_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01212_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01212_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01212_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01212_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01212_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01287.JPG');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'DSC01287.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01287_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01287_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01287_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01287_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01287_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01287_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01372.JPG');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'DSC01372.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01372_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01372_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01372_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01372_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01372_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01372_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01513.JPG');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'DSC01513.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01513_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01513_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01513_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01513_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01513_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01513_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01514.JPG');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'DSC01514.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01514_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01514_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01514_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01514_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01514_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01514_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01527.JPG');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'DSC01527.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01527_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01527_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01527_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01527_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01527_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01527_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01531.JPG');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'DSC01531.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01531_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01531_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01531_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01531_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01531_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01531_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01654.JPG');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'DSC01654.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01654_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01654_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01654_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01654_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01654_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01654_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01658.JPG');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'DSC01658.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01658_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01658_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01658_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01658_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01658_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01658_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSC01660.JPG');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'DSC01660.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01660_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01660_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSC01660_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01660_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01660_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSC01660_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSCF0002.JPG');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'DSCF0002.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSCF0002_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSCF0002_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSCF0002_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSCF0002_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSCF0002_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSCF0002_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/DSCF0004.JPG');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'DSCF0004.JPG';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSCF0004_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSCF0004_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/DSCF0004_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSCF0004_JPG.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSCF0004_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/DSCF0004_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/Documents and Settings/Home/Desktop/acm/pic1.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'pic1.jpg';
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/pic1_jpg.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/images/pic1_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/images/pic1_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/pic1_jpg.jpg') || confirm('file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/pic1_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Documents and Settings/Home/Desktop/acmpics/thumbnails/pic1_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

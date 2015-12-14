@@ -1,0 +1,13 @@
+Blog
+- issues with jekyll
+- Snippets for mesos spark
+- All my linux shortcuts.
+- All Placeholder next project
+- Some of my instagram pics
+- word cloud of all my tweets
+
+Work on:
+
+About
+Projects
+Resume when doc has been translated
