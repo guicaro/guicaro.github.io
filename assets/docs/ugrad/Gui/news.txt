@@ -1,0 +1,65 @@
+Feb/2004
+
+Bullfighting Classes
+
+I will be starting with my bullfighting classes in San Isidro, TX, with a retired american matador (David Renk) who took his alternativa (got his "degree" in bullfighting) in the largest bullring in the world (La Mexico - Mexico City). 
+
+Bullfighting is my other pasion (the other one being Computers) throughout my life. I will be posting a journal of the activities I'll be involved in.
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+March/2004
+
+GNU Emacs 
+
+For the past few months I've been working with XEmacs, after getting Linux working in my system in conjunction with MS Windows XP. It's been interesting working with it, and at the same time hard to keep up with all the things that can be achieved with this great software.
+
+At IBM's SVL I met some people (Rafael Coss, Kache Holger and Jose Maldonado) that are really into Emacs, and they are good at it, doing all their "everyday tasks" (document editing, source code compilation and execution, ftp connections, etc). And they pretty much got me excited about it, and finally into using it. It's a very powerful software, and I'll just gradually keep learning new features
+
+UTPA Ambassador
+
+I got invited by the UTPA Office of the Dean of Student and the Office of Student Life and Transition Services to apply for their Ambassador Mentoring Program which is limited to thirty students. The program is aimed at representing the university at special functions, developing improved mentoring, organizational and leadership skills, and assisting entering freshmen to achieve success while at the University.
+
+I'll apply and see if my 19 hours for the fall semester do not take too much of my time, in order for me to participate in the program.
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+April/2004
+
+IBM Internship 
+
+As for this Summer 2004, I will be working in Silicon Valley with IBM, this time working with Websphere; developing applications to use with Websphere, and of course testing and debugging.
+
+Volunteer Work 
+
+I have joined an organization that was recommended by a friend in order to do some Volunteer work towards the community. SIFE is the name of the organization, and stands for Students in Free Enterprise. I am working on one of their technological oriented project called "Evergreen". More information of the project is available in the "Activities" section of my web site.
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+November/2004
+
+ACM programming contest
+
+The 2004 regional programming contest will be held in New Orleans, at the Louisiana State University on November 5 & 6. I will be part of one of the two teams that will represent UTPA at the contest sponsored by IBM.
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+March/2005
+
+Who's who Award
+
+I recently got a notification that I had recieved the award. I really was not expecting it, since I filled out the application almost one day before the deadline, and actually submited the application exactly at 5:00 pm, somewhat hectic application process. From what I know, this award is given to academicallly outstanding students, and about 20 students get selected from the University.
+
+IBM's Extreme Blue Technical Interview
+
+Last semester Ii decided to apply to Extreme Blue, and I had a first interview on January, lasted about 45 min, and went over my resume and certain bussiness skills. Thereafter, I was given a 90 minute technical interview to asses my technical skills. 
+
+That interview itself has been the most stressfull one I've ever done; it's like having 3 midterm exams at once. You have to define terms such as polymorphism, 3NF. And also find ways in which you can solve certain situations. The interviewing process was a great experience, I did not make it to the next step, but it certainlly gave me an insight on things I should concentrate.
+
+Speed team internship in IBM Austin
+
+This summer I will be joining a speed team in IBM Austin. I will be working mainly with AIX and CMVC (Configuration Management Version Control) to create an application that will work with the automatic addition of man pages to AIX, as well as tracking options for developer's utilities. 

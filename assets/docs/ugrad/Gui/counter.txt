@@ -1,0 +1,205 @@
+---------------------------------------------------------------------
+
+INSTALLATION: It is important to put the right code in your page in order to
+make Nedstat Basic work properly. The code(s) that you have to put in the html
+of the page between <body> and </body> are given below.
+
+---------------------------------------------------------------------
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Biography -->
+<!-- URL:  -->
+<script language="JavaScript" type="text/javascript"
+src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACvqdwE5Np3ESwNAR8oqmnbqMF3Q", 1);
+// -->
+</script>
+<noscript>
+<a target="_blank"
+href="http://www.nedstatbasic.net/stats?ACvqdwE5Np3ESwNAR8oqmnbqMF3Q"><img
+src="http://m1.nedstatbasic.net/n?id=ACvqdwE5Np3ESwNAR8oqmnbqMF3Q"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Interests -->
+<!-- URL:  -->
+<script language="JavaScript" type="text/javascript"
+src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACvqew5ipe1zyNqIBw9g+NARaoag", 1);
+// -->
+</script>
+<noscript>
+<a target="_blank"
+href="http://www.nedstatbasic.net/stats?ACvqew5ipe1zyNqIBw9g+NARaoag"><img
+src="http://m1.nedstatbasic.net/n?id=ACvqew5ipe1zyNqIBw9g+NARaoag"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Activities -->
+<!-- URL: -->
+<script language="JavaScript" type="text/javascript"
+src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACvqfgHlDBiZCQ+mi7LT+wt+yxJg", 1);
+// -->
+</script>
+<noscript>
+<a target="_blank"
+href="http://www.nedstatbasic.net/stats?ACvqfgHlDBiZCQ+mi7LT+wt+yxJg"><img
+src="http://m1.nedstatbasic.net/n?id=ACvqfgHlDBiZCQ+mi7LT+wt+yxJg"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Links -->
+<!-- URL:  -->
+<script language="JavaScript" type="text/javascript"
+src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACvqfwskAgxTRAj3pVVMjjLpuS+g", 1);
+// -->
+</script>
+<noscript>
+<a target="_blank"
+href="http://www.nedstatbasic.net/stats?ACvqfwskAgxTRAj3pVVMjjLpuS+g"><img
+src="http://m1.nedstatbasic.net/n?id=ACvqfwskAgxTRAj3pVVMjjLpuS+g"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Resume -->
+<!-- URL:  -->
+<script language="JavaScript" type="text/javascript"
+src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACvqgQCfz9wc1UFXJo7+iQxW/anw", 1);
+// -->
+</script>
+<noscript>
+<a target="_blank"
+href="http://www.nedstatbasic.net/stats?ACvqgQCfz9wc1UFXJo7+iQxW/anw"><img
+src="http://m1.nedstatbasic.net/n?id=ACvqgQCfz9wc1UFXJo7+iQxW/anw"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Contact -->
+<!-- URL:  -->
+<script language="JavaScript" type="text/javascript"
+src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACvqgw0k4avHl5/kNS0Fe9EVVwrA", 1);
+// -->
+</script>
+<noscript>
+<a target="_blank"
+href="http://www.nedstatbasic.net/stats?ACvqgw0k4avHl5/kNS0Fe9EVVwrA"><img
+src="http://m1.nedstatbasic.net/n?id=ACvqgw0k4avHl5/kNS0Fe9EVVwrA"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Academics -->
+<!-- URL:  -->
+<script language="JavaScript" type="text/javascript"
+src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACvqhwHXS7G2IFMSIXrYxBFu/4eg", 1);
+// -->
+</script>
+<noscript>
+<a target="_blank"
+href="http://www.nedstatbasic.net/stats?ACvqhwHXS7G2IFMSIXrYxBFu/4eg"><img
+src="http://m1.nedstatbasic.net/n?id=ACvqhwHXS7G2IFMSIXrYxBFu/4eg"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Pictures -->
+<!-- URL:  -->
+<script language="JavaScript" type="text/javascript"
+src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript" type="text/javascript" >
+<!--
+  nedstatbasic("ACvqiAeFdlc6FTl82ERE9ROhZHPw", 1);
+// -->
+</script>
+<noscript>
+<a target="_blank"
+href="http://www.nedstatbasic.net/stats?ACvqiAeFdlc6FTl82ERE9ROhZHPw"><img
+src="http://m1.nedstatbasic.net/n?id=ACvqiAeFdlc6FTl82ERE9ROhZHPw"
+border="0" width="18" height="18"
+alt="Nedstat Basic - Free web site statistics
+Personal homepage website counter"></a><br>
+<a target="_blank" href="http://www.nedstatbasic.net/">Free counter</a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+
+---------------------------------------------------------------------
+
+Does your site use a redirect service? (referral URLs like go.to, come.to,
+surf.now) In that case change the 0 in 'nedstatbasic
+('xxxxxxxxxxxxxxxxxxxxxxxxxxx', 0) ' to a 1.
