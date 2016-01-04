@@ -8,6 +8,8 @@ Blog
 
 Work on:
 
+Fix Current Resume (typos)
+Create Russian version
 About
 Projects
 Resume when doc has been translated
