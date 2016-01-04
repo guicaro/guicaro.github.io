@@ -11,3 +11,8 @@ Work on:
 About
 Projects
 Resume when doc has been translated
+
+
+NOTE:
+
+When updating resume, remember to delete the WHITE background layer before saving to PDF and JPG (60%)
