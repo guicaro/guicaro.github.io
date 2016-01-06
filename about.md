@@ -11,7 +11,7 @@ title: About Guillermo Cabrera
 
 I am both a Mexican and American citizen (I hold both passports). Born in March 1984 in the  city of [Queretaro][qro] in Mexico. I graduated in December 2010 from the masters program at the [computer science department][utcs] which is part of the school of natural sciences at the [University of Texas Austin][ut]. I obtained my bachelors in science degree from the computer science department at the [University of Texas - Pan American][utpa]. At several instances during and prior to my undergraduate education I did some work with [IBM][ibm] both in Silicon Valley and Austin locations, where my work spanned across many levels, from application to kernel level development focusing on database systems. I was selected by the [Indo-US Science & Technology Forum][india] to participate in a research project at HP Labs in Bangalore, India, which focused on eye tracking and user profiling. I currently work as a software engineer for the [Emerging Technologies group at IBM Austin][ibmet] where we work on creating prototypes using open source technology around data analytics, cloud coumputing and big data.
 
-#Interests
+##Interests
 
 * Database systems (Efficient storage, querying, indexing)
 * Big data (Apache Hadoop, Apache Spark)
@@ -27,6 +27,7 @@ I am both a Mexican and American citizen (I hold both passports). Born in March 
 * Part of [Workday's IPO][wday] on NYSE in 2012.
 * Danced with Salsa Champion (Bindu Prasana) from India in 2009
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HOHH3_n2vv4" frameborder="0" allowfullscreen></iframe>
+* 1 of 75 students selected to participate in [Google Grad CS Forum][google]
 
 ## Have lived in
 
@@ -40,7 +41,7 @@ I am both a Mexican and American citizen (I hold both passports). Born in March 
 * Edinburg, Texas (USA)
 * Normal, Illinois (USA)
 
-#When I am not working I am usually:
+##When I am not working I am usually:
 
 * Dancing salsa, bachata, cha cha cha
 * Watching [кухня][kitchen] or some Bollywood movie
@@ -53,6 +54,7 @@ I am both a Mexican and American citizen (I hold both passports). Born in March 
 [ibm]: http://www.ibm.com/us-en/
 [india]: http://www.iusstf.org/
 [ibmet]: https://www-304.ibm.com/connections/blogs/et/entry/home?lang=en_us
-[boarba]: http://www.dennisborba.com/contact.html
+[borba]: http://www.dennisborba.com/contact.html
 [wday]: http://www.forbes.com/sites/tomiogeron/2012/10/12/workday-ipo-pops-72-on-open/
 [kitchen]: https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%85%D0%BD%D1%8F_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)
+[google]: http://googleforstudents.blogspot.com/2009/11/join-us-for-2010-google-grad-cs-forum.html
