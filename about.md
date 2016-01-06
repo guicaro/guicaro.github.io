@@ -28,6 +28,8 @@ I am both a Mexican and American citizen (I hold both passports). Born in March 
 * Danced with Salsa Champion (Bindu Prasana) from India in 2009
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HOHH3_n2vv4" frameborder="0" allowfullscreen></iframe>
 * 1 of 75 students selected to participate in [Google Grad CS Forum][google]
+* Developed a mobile app for the bullfighting world, we had 15000+ unique users and 92000+ sessions for iOS application in 1 year
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UOk2Otr7-5o" frameborder="0" allowfullscreen></iframe>
 
 ## Have lived in
 
