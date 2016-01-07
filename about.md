@@ -5,7 +5,7 @@ title: About Guillermo Cabrera
 
 #About Guillermo
 
-<img src="{{ '/assets/img/memoSantorini.jpg' | prepend: site.baseurl }}" alt="" height="500">
+<center><img src="{{ '/assets/img/memoSantorini.jpg' | prepend: site.baseurl }}" alt="" style="max-height:500px"></center>
 
 <blockquote>I am a back end software developer who is always thrilled to discover new ways to process large amounts of information</blockquote>
 
@@ -23,13 +23,19 @@ I am both a Mexican and American citizen (I hold both passports). Born in March 
 
 * I was an amateur bullfighter a few years ago and was helping 1 of 3 [bullfighting schools][borba] in USA
 * Presented to former IBM CEO (Sam Palmisano) back in 2010
-<img src="{{ '/assets/img/sam.jpg' | prepend: site.baseurl }}" alt="" height="300">
+<center>
+<img src="{{ '/assets/img/sam.jpg' | prepend: site.baseurl }}" alt="" tyle="max-height:300px">
+</center>
 * Part of [Workday's IPO][wday] on NYSE in 2012.
 * Danced with Salsa Champion (Bindu Prasana) from India in 2009
+<center>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HOHH3_n2vv4" frameborder="0" allowfullscreen></iframe>
+</center>
 * 1 of 75 students selected to participate in [Google Grad CS Forum][google]
 * Developed a mobile app for the bullfighting world, we had 15000+ unique users and 92000+ sessions for iOS application in 1 year
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UOk2Otr7-5o" frameborder="0" allowfullscreen></iframe>
+</center>
 
 ## Have lived in
 
