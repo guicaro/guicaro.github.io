@@ -5,9 +5,7 @@ Blog
 - word cloud of all my tweets
 
 Work on:
-
-Snippets post (tmux, vi, etc)
-Put dotfiles
+- Put dotfiles
 
 NOTE:
 
