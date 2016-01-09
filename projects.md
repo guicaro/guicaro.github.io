@@ -39,6 +39,12 @@ Graduate course by Dr. Jason Baldridge. High-level view of machine learning meth
 [semppt]: http://www.guicaro.com/assets/docs/VP.pptx
 [sequeda]: http://www.cs.utexas.edu/~jsequeda/ 
 
+### EE 382V - Mobile Computing (2010)
+
+* Collaborative Bluetooth EduMANET mobile computing project using Android devices [\[HTML\]][mobile]. Collaborated with Nabil Qamar and Gregg Orr
+
+[mobile]: http://ows.edb.utexas.edu/site/collaborative-bluetooth-edumanet
+
 ### CS 389R - Recursion and Induction (2010)
 
 Graduate level class taught by [Dr. Warrant Hunt][hunt] concerning mathematically modeling computation and analyzing of these models. Also exposed to [ACL2 logic][acl2]
@@ -81,12 +87,6 @@ Graduate level class taught by [Dr. Don Batory][batory]. Final presentation on S
 [minidbgit]:  https://github.com/guicaro/minidb
 [dbppt]: http://www.guicaro.com/assets/docs/cabrera-queryOptimization.ppt
 [dbreport]: http://www.guicaro.com/assets/docs/p4_cabrera_pendyala.pdf
-
-### EE 382V - Mobile Computing (2010)
-
-* Collaborative Bluetooth EduMANET mobile computing project using Android devices [\[HTML\]][mobile]. Collaborated with Nabil Qamar and Gregg Orr
-
-[mobile]: http://ows.edb.utexas.edu/site/collaborative-bluetooth-edumanet
 
 ### CS 395T - Modeling Biological Databases (2008)
 

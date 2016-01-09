@@ -7,7 +7,6 @@ Blog
 Work on:
 
 Snippets post (tmux, vi, etc)
-Instagram post
 Put dotfiles
 
 NOTE:

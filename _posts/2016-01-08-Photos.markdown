@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Photos from Traveling"
+date:   2016-01-08
+---
+
+<p class="intro"><span class="dropcap">T</span>he world is a book and those who do not travel read only one page. - Augustine of Hippo.</p>
+
+A few of my most memorable moments while traveling, beware I'm not the best
+photographer in this world.
+
+<figure>
+	<img src="{{ '/assets/img/instagram/domovoi.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>The domovoi taking care of my apartment since 2008</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/barcelonacafe.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>All you need while traveling and working in Barcelona</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/bologna.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Breakfast in Bologna, Italia main square</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/catania.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Climbing mount Etna in Sicilia, Italia</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/facebook.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Guest for a day at Facebook headquarters</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/googleplex.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Having lunch at Googleplex in Mountain View, California</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/hermitage.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>The Hermitage, my favorite museum, I like sculptures by Canova</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/moscow.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Symmetry in Moscow's main cathedral</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/paris.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Walking towards the Eiffel tower in Paris all the way from Le Marais</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/peter2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Walking on Nevsky prospekt during summer in St. Petersburg</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/peterana.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Great memories of my amazing friend Anna and her impromptu art</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/peteruni.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>View from top of the church onto St. Peterburg State University</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/queretaro.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Dinner in Queretaro, Mexico downtown</figcaption>
+</figure>
+<figure>
+	<img src="{{ '/assets/img/instagram/santorini.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Some of the best sunsets I've seen in Santorini, Greece</figcaption>
+</figure>
