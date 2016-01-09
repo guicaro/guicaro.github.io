@@ -6,10 +6,8 @@ Blog
 
 Work on:
 
-Projects
 Snippets post (tmux, vi, etc)
 Instagram post
-Change background pickture of site.
 Put dotfiles
 
 NOTE:
