@@ -6,9 +6,12 @@ Blog
 
 Work on:
 - Put dotfiles
-- Update Russian resume and put swift
 
 NOTE:
 
 When updating resume, remember to delete the WHITE background layer before saving to PDF and JPG (60%)
 After you have PDFs use PREVIEW to Export as PDF to make it searcheable.
+
+When adding an article remember to:
+
+1) 
