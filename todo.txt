@@ -12,6 +12,15 @@ NOTE:
 When updating resume, remember to delete the WHITE background layer before saving to PDF and JPG (60%)
 After you have PDFs use PREVIEW to Export as PDF to make it searcheable.
 
+1. Delete jpg and pdf in /resume
+2. open assets/docs/resume/template/PSD/ResumeCabreraEdit.psd
+3. File -> Save
+4. Delete White background
+5. File -> Save As -> Photoshop PDF
+6. Open in READER and then File -> Export as PDF
+7. File -> Save for Web -> JPG (60%)
+8. Close Phooshop (DONT SAVE)
+
 When adding an article remember to:
 
 1) 

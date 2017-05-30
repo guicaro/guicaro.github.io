@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Codeforces competition"
+date:   2016-11-23
+---
+
+Today I realized, it took me almost 10 submissions and 45 minutes to pass 5 test cases for problem #1 (easieast) in 2nd division of codeforces. There were about 7k participants fro all over the world. To get some perspective, people had accepted answers as early as 4 minutes.
+
+Having previously participated in an ACM programming contest in university I am aware these problems require constant practice in order to be efficient at speed and good algorithms. Nonetheless, it's interesting to see the blocks I face with simple JAVA code. signs that I need to practice more and code more. How does one prevent from making an arithmetic computation that might overflow and be bigger than Integer.MAX_VALUE?
+
+It is good to see the bottom of the sea and build up my skills from scratch, it will be long process and not easy, but it is necessary as I want to see myself proficient at work, I want to be the person that can take a marker and suggest a new approach at work, maybe a new algorithm using a more efficient data structure. 
+
+Guillermo, the big 4 + homeaway sent you to the toilet, and you felt like shit after doing the codeforces competition, but all of this is great experience that none of your coworkers has, you are doing something that many fear and would not be able to do. BE STRONG!
+
+
+<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+
+# Heading 1
+###### Heading 6
+
+## Unordered List
+* List Item
+* Longer List Item
+  * Nested List Item
+
+## Ordered List
+1. List Item
+2. Longer List Item
+    1. Nested OL Item
+    2. Another Nested Item
+3. List Item
+
+Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.

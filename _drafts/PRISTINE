@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Codeforces competition"
+date:   2016-11-23
+---
+
+<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+
+# Heading 1
+###### Heading 6
+
+## Unordered List
+* List Item
+* Longer List Item
+  * Nested List Item
+
+## Ordered List
+1. List Item
+2. Longer List Item
+    1. Nested OL Item
+    2. Another Nested Item
+3. List Item
+
+Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
