@@ -17,8 +17,8 @@ date:   2017-10-17
    1. Traits
    2. Tuples and limits and why
 8. Hashing
-   *  Strategies, cost
-   *  Probing, chaining, rehashing
+   * Strategies, cost
+   * Probing, chaining, rehashing
 9. Byte, bits, chars, (sizes)
 10. Recursion, recursion, recursion, memoization
 11. OLTP, OLAP
