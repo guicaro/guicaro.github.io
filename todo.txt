@@ -18,6 +18,8 @@ After you have PDFs use PREVIEW to Export as PDF to make it searcheable.
 4. Delete White background
 5. File -> Save As -> Photoshop PDF
 6. Open in READER and then File -> Export as PDF
+6. Make size of PDF smaller with gs
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/default     -dNOPAUSE -dQUIET -dBATCH -dDetectDuplicateImages     -dCompressFonts=true -r150 -sOutputFile=output.pdf ResumeCabreraSearch.pdf
 7. File -> Save for Web -> JPG (60%)
 8. Close Phooshop (DONT SAVE)
 
