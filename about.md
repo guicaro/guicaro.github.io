@@ -5,7 +5,7 @@ title: About Guillermo Cabrera
 
 # About Guillermo
 
-<center><img src="{{ '/assets/img/memoSantorini.jpg' | prepend: site.baseurl }}" alt="" style="max-height:500px"></center>
+<center><img src="{{ '/assets/img/memohat.png' | prepend: site.baseurl }}" alt="" style="max-height:500px"></center>
 
 <blockquote>I am a back end software developer who is always thrilled to discover new ways to process large amounts of information</blockquote>
 
@@ -39,6 +39,8 @@ I am both a Mexican and American citizen (I hold both passports). Born in March 
 
 ## Have lived in
 
+* Surat, Gujarat (India)
+* Chiang Mai (Thailand)
 * Austin, Texas (USA)
 * St. Petersburg, (Russian Federation)
 * Pleasanton, California (USA)

@@ -12,8 +12,8 @@ title: Resume
 
 ## Russian
 
-* [PDF][ruspdfresume]
-* [JPG][rusjpgresume]
+* [PDF][ruspdfresume] - 2017 version
+* [JPG][rusjpgresume] - 2017 version
 
 [pdfresume]: http://www.guicaro.com/assets/docs/resume/cabreraResume.pdf
 [jpgresume]: http://www.guicaro.com/assets/docs/resume/cabreraResume.jpg
