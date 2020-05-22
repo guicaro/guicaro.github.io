@@ -1,0 +1,106 @@
+I"�<p class="intro"><span class="dropcap">H</span>ere is a list of questions and skills I've been asked about as a senior backend developer during 2017, these questions come from big companies and startups in Silicon Valley, Seattle and Europe.</p>
+
+<h2 id="topics">Topics</h2>
+<ol>
+  <li>Optimization</li>
+  <li>Failure Recovery</li>
+  <li>Compression (ex. Parquet)</li>
+  <li>Robustness</li>
+  <li>Load balancing</li>
+  <li>What’s new in Java 9. What was new in Java 8</li>
+  <li>Scala
+    <ol>
+      <li>Traits</li>
+      <li>Tuples and limits and why</li>
+    </ol>
+  </li>
+  <li>Hashing
+    <ul>
+      <li>Strategies, cost</li>
+      <li>Probing, chaining, rehashing</li>
+    </ul>
+  </li>
+  <li>Byte, bits, chars, (sizes)</li>
+  <li>Recursion, recursion, recursion, memoization</li>
+  <li>OLTP, OLAP</li>
+  <li>What is an INDEX in RDBMS, materialized view</li>
+  <li>Memcache</li>
+  <li>TCP Stack</li>
+  <li>Permutations and combinations</li>
+  <li>Certificates and HTTPS</li>
+  <li>p90, p95, p99, p99.9</li>
+  <li>Cassandra
+    <ul>
+      <li>Origins, advantages</li>
+      <li>MEMTABLES</li>
+      <li>Gossip protocol</li>
+      <li>Consistent hashing</li>
+    </ul>
+  </li>
+  <li>Erasure coding</li>
+  <li>CAP Theorem, ACID</li>
+  <li>JVM
+    <ul>
+      <li>Garbage collecting strategies (ex. Parallel GC, Concurrent Mark Sweep, Serial GC)</li>
+      <li>Architecture (ex. Class loader, runtime data areas, execution engine)</li>
+      <li>Generations (ex. young, old, tenured)</li>
+      <li>Difference minor and major GC</li>
+    </ul>
+  </li>
+  <li>Sharding</li>
+  <li>DB Normalization, 2nd normal form, 3rd normal form</li>
+  <li>Reflection</li>
+  <li>Exceptions
+    <ul>
+      <li>Checked vs Unchecked, runtime, Error class</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="skills">Skills</h2>
+<ol>
+  <li>How to use git biset and why it is useful</li>
+  <li>Unit testing and Mockito</li>
+  <li>jmap -&gt; jhat &amp;&amp; jinfo, jstat</li>
+</ol>
+
+<h2 id="programming-tasks">Programming tasks</h2>
+<ol>
+  <li>Work in Scala with Option, None, Some, Any</li>
+  <li>Build post order string from in and pre order</li>
+  <li>Implement K-means in scala</li>
+</ol>
+
+<h2 id="design-tasks">Design tasks</h2>
+<ol>
+  <li>Design a system so that users can upload XLS files with inventory and display items in browser</li>
+</ol>
+
+<h2 id="questions">Questions</h2>
+<ol>
+  <li>How does UTF-8 encoding work?</li>
+  <li>What is the most complex tree you have used and how does it work and copare to others (ex. B+ tree)</li>
+  <li>Explain happens before relationship</li>
+  <li>In terms of compilers, what is the cost of accessing an array?</li>
+  <li>How does the Internet work?</li>
+  <li>What is 60 factorial?</li>
+  <li>How does short circuit work in condition JAVA?</li>
+  <li>Difference between TreeMap and HashMap? Advantage of a TreeMap</li>
+  <li>Sinchronize in JAVA</li>
+  <li>Do we have a guarantee to use an INDEX in RDBMS?</li>
+  <li>What is serialVersionUID and why to use in JAVA?</li>
+  <li>Cost of accessing an array and a linked list?</li>
+  <li>How is a primary and secondary index implemented in RDBMS.</li>
+  <li>How is ipV6 different than ipV4?</li>
+  <li>Breadh first serch is used for what?</li>
+  <li>Bellman Ford algorithm</li>
+  <li>Why is String final?</li>
+  <li>Difference Dataframe &amp; DataSet (Spark)?</li>
+  <li>writeStream method in DataFrame?</li>
+  <li>Who talks to workers and driver and master?</li>
+  <li>What are clustering modes available?</li>
+  <li>Window operation on dataframe? What are args?</li>
+</ol>
+
+<p>The best recommendation I have gotten is to make it your habbit to keep learning and questioning everything you do each day. Make your mini hackathons on the weekend to learn new things. Don’t just study to find a new job, study to develop your own skills and be a ninja programmer :)</p>
+:ET
