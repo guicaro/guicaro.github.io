@@ -3,14 +3,13 @@ layout: post
 title:  "Kindle highlights on Applied Artificial Intelligence Book"
 date:   2020-05-22
 ---
+<p class="intro"><span class="dropcap">G</span> ot to know about this book after watching one of the <a href="https://vlab.org/portfolio-items/proliferation-of-artificial-intelligence/" target="_blank">VLAB sessions</a> at Stanford back in 2018. The book <a href="https://www.amazon.com/dp/0998289027?tag=duckduckgo-d-20&linkCode=osi&th=1&psc=1" target="_blank">on Amazon</a>.</p>
 
-<p class="intro"><span class="dropcap">G</span>ot to know about this book after watching one of the <a href="https://vlab.org/portfolio-items/proliferation-of-artificial-intelligence/" target="_blank">VLAB sessions</a> at Stanford back in 2018. Here is the book <a href="https://www.amazon.com/dp/0998289027?tag=duckduckgo-d-20&linkCode=osi&th=1&psc=1" target="_blank">on Amazon</a>. Here are the book highlights I made on my kindle.</p>
+ * We’re very far from having machines that can learn the most basic things about the world in the way humans and animals can,” said Yann LeCun, head of AI at Facebook. Page 12
 
-* We’re very far from having machines that can learn the most basic things about the world in the way humans and animals can,” said Yann LeCun, head of AI at Facebook. Page 12
+ * Descriptive statistics describes or visualizes the basic features of the data being studied. Page 14 
 
-* Descriptive statistics describes or visualizes the basic features of the data being studied. Page 14
-
-* Inferential statistics is used to draw conclusions that apply to more than just the data being studied. Page 14
+ * Inferential statistics is used to draw conclusions that apply to more than just the data being studied. Page 14
 
 * Supervised learning occurs when the computer is given labeled training data, Page 15
 
@@ -91,5 +90,3 @@ date:   2020-05-22
 * The White House reported that other OECD countries spent, on average, about 0.6 percent of their GDP on active labor market policies in 2014; in contrast, the United States spent 0.1 percent of its GDP, which was less than half of what was spent thirty years ago. 125
 
 * For up-to-date content and case studies on how AI is being used in specific industries, visit our website at appliedaibook.com. 128
-
-
