@@ -24,7 +24,7 @@ image: aibook.jpg
 * Team should be also surrounded by advisors from non-technical departments, such as HR or Finance, who can inform you of the areas in most urgent need of automation and the areas with the highest ROI. Page 49
 * Pick a smaller, sure-win project to demonstrate possibilities. While returns may be limited, an early success will give you confidence when you request that the project scope be expanded. Page 50
 
-## How to develope an enterprise AI strategy
+## How to develop an enterprise AI strategy
 * Don’t Call It Artificial Intelligence When pitching your project, emphasize the value that new technology can deliver instead of the technical details of implementation. Page 50
 * The head of a prominent Silicon Valley AI lab recently confided to us that American universities only graduate about 100 competent researchers and engineers in this field each year! Page 53
 * ML engineers build machine learning solutions to solve business and customer problems. These specialized engineers deploy models, manage infrastructure, and run operations related to machine learning projects. Page 54
