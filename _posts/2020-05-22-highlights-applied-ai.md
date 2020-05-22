@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Kindle highlights on Applied Artificial Intelligence Book"
+title:  "Highlights on Applied AI Book"
 date:   2020-05-22
+image: aibook.jpg
 ---
-<p class="intro"><span class="dropcap">G</span> ot to know about this book after watching one of the <a href="https://vlab.org/portfolio-items/proliferation-of-artificial-intelligence/" target="_blank">VLAB sessions</a> at Stanford back in 2018. The book <a href="https://www.amazon.com/dp/0998289027?tag=duckduckgo-d-20&linkCode=osi&th=1&psc=1" target="_blank">on Amazon</a>.</p>
+<p class="intro"><span class="dropcap">G</span> ot to know about this book after watching one of the <a href="https://vlab.org/portfolio-items/proliferation-of-artificial-intelligence/" target="_blank">VLAB sessions</a> at Stanford back in 2018. The book <a href="https://www.amazon.com/dp/0998289027?tag=duckduckgo-d-20&linkCode=osi&th=1&psc=1" target="_blank">on Amazon</a>. The gist of the book is AI is still in early stages, will be hard to introduce AI to organization, but can be done if we follow the right approach. Very cool projects out there that showcase Machine Learning.</p>
 
-## Highlights
+> Applied Artificial Intelligence: A Handbook For Business Leaders by Mariya Yao, Adelyn Zhou and Marlene Jia
+
+## What business leaders need to know
 * We’re very far from having machines that can learn the most basic things about the world in the way humans and animals can,” said Yann LeCun, head of AI at Facebook. Page 12
 * Descriptive statistics describes or visualizes the basic features of the data being studied. Page 14 
 * Inferential statistics is used to draw conclusions that apply to more than just the data being studied. Page 14
@@ -20,6 +23,8 @@ date:   2020-05-22
 * Enterprises early in the maturity cycle for big data and analytics may need to wait until a basic data and analytics infrastructure is in place before chasing AI. Page 47
 * Team should be also surrounded by advisors from non-technical departments, such as HR or Finance, who can inform you of the areas in most urgent need of automation and the areas with the highest ROI. Page 49
 * Pick a smaller, sure-win project to demonstrate possibilities. While returns may be limited, an early success will give you confidence when you request that the project scope be expanded. Page 50
+
+## How to develope an enterprise AI strategy
 * Don’t Call It Artificial Intelligence When pitching your project, emphasize the value that new technology can deliver instead of the technical details of implementation. Page 50
 * The head of a prominent Silicon Valley AI lab recently confided to us that American universities only graduate about 100 competent researchers and engineers in this field each year! Page 53
 * ML engineers build machine learning solutions to solve business and customer problems. These specialized engineers deploy models, manage infrastructure, and run operations related to machine learning projects. Page 54
