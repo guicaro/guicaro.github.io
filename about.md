@@ -18,45 +18,6 @@ I am both a Mexican and American citizen (I hold both passports). Born in March 
 * Mobile computing (wireless sensor networks, iOS, Android)
 * Quantified Self
 
-
-## Random stuff
-
-* I was an amateur bullfighter a few years ago and was helping 1 of 3 [bullfighting schools][borba] in USA
-* Presented to former IBM CEO (Sam Palmisano) back in 2010
-<center>
-<img src="{{ '/assets/img/sam.jpg' | prepend: site.baseurl }}" alt="" tyle="max-height:300px">
-</center>
-* Part of [Workday's IPO][wday] on NYSE in 2012.
-* Danced with Salsa Champion (Bindu Prasana) from India in 2009
-<center>
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HOHH3_n2vv4" frameborder="0" allowfullscreen></iframe>
-</center>
-* 1 of 75 students selected to participate in [Google Grad CS Forum][google]
-* Developed a mobile app for the bullfighting world, we had 15000+ unique users and 92000+ sessions for iOS application in 1 year
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UOk2Otr7-5o" frameborder="0" allowfullscreen></iframe>
-</center>
-
-## Have lived in
-
-* Surat, Gujarat (India)
-* Chiang Mai (Thailand)
-* Austin, Texas (USA)
-* St. Petersburg, (Russian Federation)
-* Pleasanton, California (USA)
-* San Jose, California (USA)
-* Queretaro, (Mexico)
-* Salamanca (Spain)
-* Bangalore (India)
-* Edinburg, Texas (USA)
-* Normal, Illinois (USA)
-
-## When I am not working I am usually:
-
-* Dancing salsa, bachata, cha cha cha
-* Watching [кухня][kitchen] or some Bollywood movie
-* Trying to play the guitar
-
 [qro]:  https://en.wikipedia.org/wiki/Quer%C3%A9taro_City
 [utcs]: http://www.cs.utexas.edu/
 [ut]: http://www.utexas.edu/
@@ -64,7 +25,3 @@ I am both a Mexican and American citizen (I hold both passports). Born in March 
 [ibm]: http://www.ibm.com/us-en/
 [india]: http://www.iusstf.org/
 [ibmet]: https://www-304.ibm.com/connections/blogs/et/entry/home?lang=en_us
-[borba]: http://www.dennisborba.com/contact.html
-[wday]: http://www.forbes.com/sites/tomiogeron/2012/10/12/workday-ipo-pops-72-on-open/
-[kitchen]: https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%85%D0%BD%D1%8F_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)
-[google]: http://googleforstudents.blogspot.com/2009/11/join-us-for-2010-google-grad-cs-forum.html
