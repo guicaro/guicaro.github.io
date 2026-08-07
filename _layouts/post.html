@@ -1,32 +1,37 @@
 ---
-layout: default
+layout: compress
 ---
-<div class="post">
-  {% if page.image %}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
-      </div>
-  {% endif %}
-  <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
-  
-  {{ content }}
 
-  <!-- POST NAVIGATION -->
-  <div class="postNav clearfix">
-    {% if page.previous.url %} 
-      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
-      {% if page.previous.image %} 
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
-      {% endif %}
-    </a>
-    {% endif %}  
-    {% if page.next.url %}  
-      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
-      {% if page.next.image %} 
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
-      {% endif %} 
-      </a>
-    {% endif %} 
+{% include head.html %}
+
+<main>
+  {% include header.html %}
+
+  <article>
+    {% if page.image %}
+      <img src="{{ '/assets/img/' | relative_url }}{{ page.image }}" alt="">
+    {% endif %}
+
+    <h1>{{ page.title }}</h1>
+    <p><i>{{ page.date | date: "%b %-d, %Y" }}</i></p>
+    {% if page.subtitle %}<h4 class="subtitle">{{ page.subtitle }}</h4>{% endif %}
+
+    {{ content }}
+
+    <nav class="post-nav">
+      {% if page.previous.url %}<a href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>{% endif %}
+      {% if page.next.url %}<a href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a>{% endif %}
+    </nav>
+  </article>
+</main>
+
+<footer>
+  <a href="{{ '/blog/' | relative_url }}">&larr; Back to all writings</a>
+  <div class="bottom-footer">
+    <br>
+    <i><a href="https://knhash.in/jekyllBear" title="the art">jekyllBear</a> by <a href="https://knhash.in" title="the artist">knhash</a></i>
   </div>
-</div>
+</footer>
+
+</body>
+</html>

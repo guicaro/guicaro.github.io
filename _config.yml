@@ -1,23 +1,31 @@
 title: Guillermo
-description: Personal site for Guillermo Cabrera built with SASS / COMPASS / SUSY
+description: Personal site for Guillermo Cabrera
 
 url: http://www.guicaro.com
 baseurl: ""
-paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate]
-paginate: 5
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
 
 navigation:
  - title: Home
-   url: /index
- - title: About
-   url: /about
+   url: /
+ - title: Blog
+   url: /blog/
  - title: Projects
    url: /projects
+ - title: About
+   url: /about
  - title: Resume
    url: /resume
  - title: Contact 

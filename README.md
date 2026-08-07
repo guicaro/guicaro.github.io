@@ -1,49 +1,52 @@
-![preview Long Haul](/preview.jpg)
+# guicaro.github.io
 
-Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog plosts. It is meant to used as a starting point for a jekyll blog/website.
+Personal Jekyll website for `www.guicaro.com`, styled with a local jekyllBear-inspired theme.
 
-If you really enjoy Long Haul and want to give me credit somewhere on the send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaier).
+## Requirements
 
-####[View Demo](http://brianmaierjr.com/long-haul)
+- Ruby
+- Jekyll
 
-## Features
+If Jekyll is not installed:
 
-- Minimal, Type Focused Design
-- Built with SASS + COMPASS
-- Layout with SUSY Grid
-- SVG Social Icons
-- Responsive Nav Menu
-- XML Feed for RSS Readers
-- Contact Form via Formspree
-- 5 Post Loop with excerpt on Home Page
-- Previous / Next Post Navigation
-- Estimated Reading Time for posts
-- Stylish Drop Cap on posts
-- A Better Type Scale for all devices
+```sh
+gem install jekyll
+```
 
-## Setup
+## Run Locally
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
-3. Clone it
-4. Install susy `gem install susy` 
-5. Install normalize `gem install normalize-scss`
-6. Run Jekyll `jekyll serve -w`
-7. Run `compass watch`
-8. Customize!
+```sh
+jekyll serve
+```
 
-## Site Settings
+Open `http://localhost:4000`.
 
-The main settings can be found inside the `_config.yml` file:
+To include draft posts:
 
-- **title:** title of your site
-- **description:** description of your site
-- **url:** your url
-- **paginate:** the amount of posts displayed on homepage
-- **navigation:** these are the links in the main site navigation
-- **social** diverse social media usernames (optional)
-- **google_analytics** Google Analytics key (optional)
+```sh
+jekyll serve --drafts
+```
 
-## License
+## Build
 
-This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+```sh
+jekyll build
+```
+
+The generated site is written to `_site/`.
+
+## Site Structure
+
+- `_config.yml` controls site metadata, permalinks, and navigation.
+- `index.html` is the homepage.
+- `blog.md` lists blog posts.
+- `_posts/` contains published posts.
+- `_layouts/` contains page, blog, and post templates.
+- `_includes/` contains shared HTML partials.
+- `assets/style.css` contains the active theme styles.
+- `assets/img/` and `assets/docs/` contain static files.
+
+## Notes
+
+- This repo does not currently use a `Gemfile`.
+- Old theme assets under `assets/css/`, `assets/scss/`, and `assets/js/` are retained but not loaded by the current layouts.
