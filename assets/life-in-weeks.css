@@ -1,0 +1,154 @@
+:root {
+  --decade-0-bg: var(--background-color);
+  --decade-1-bg: var(--blockquote-color);
+  --decade-0-opacity: 1;
+  --decade-1-opacity: 0.7;
+  --decade-future-opacity: 0.15;
+  --event-bg: var(--main-color);
+  --event-border: var(--visited-color);
+  --event-future-opacity: 0.6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --decade-0-bg: var(--background-color);
+    --decade-1-bg: var(--code-background-color);
+    --decade-1-opacity: 0.8;
+    --decade-future-opacity: 0.2;
+    --event-bg: var(--link-color);
+    --event-border: var(--main-color);
+    --event-future-opacity: 0.7;
+  }
+}
+
+.life-in-weeks {
+  margin: var(--spacing-md) 0;
+}
+
+#life-carousel-container {
+  display: flex;
+  align-items: center;
+  margin: 2.2em 0 1.7em;
+}
+
+.life-carousel-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 1em;
+}
+
+.life-carousel-quote {
+  flex: 1;
+  margin: 0;
+  min-height: 5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-style: normal;
+}
+
+#life-carousel-meta {
+  font-size: 0.95em;
+  color: var(--main-color);
+  margin-top: 0.5em;
+}
+
+.weeks-grid {
+  margin: var(--spacing-xl) 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  max-width: 100%;
+  align-items: flex-start;
+}
+
+.week {
+  width: 16px;
+  height: 16px;
+  border: 1px solid var(--main-color);
+  background-color: var(--background-color);
+  box-sizing: border-box;
+  transition: all var(--transition-fast) ease;
+}
+
+.week.decade-0 {
+  background-color: var(--decade-0-bg);
+  opacity: var(--decade-0-opacity);
+}
+
+.week.decade-1 {
+  background-color: var(--decade-1-bg);
+  opacity: var(--decade-1-opacity);
+}
+
+.week.future {
+  background-color: transparent;
+  border-color: var(--blockquote-color);
+  opacity: 0.3;
+}
+
+.week.decade-1.future {
+  background-color: var(--decade-1-bg);
+  opacity: var(--decade-future-opacity);
+}
+
+.week.has-events {
+  border-color: var(--event-border);
+  background-color: var(--event-bg);
+}
+
+.week.has-events.future {
+  opacity: var(--event-future-opacity);
+}
+
+.week.current,
+.carousel-pulse {
+  animation: pulse 1.4s ease-in-out infinite;
+  border-width: 2px;
+  border-color: var(--link-color);
+  box-shadow: 0 0 10px rgba(45, 80, 22, 0.5);
+  z-index: 2;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  50% {
+    transform: scale(1.18);
+    opacity: 0.7;
+  }
+}
+
+.carousel-weeknum {
+  color: var(--link-color);
+  font-weight: bold;
+  font-style: normal;
+}
+
+#life-carousel-up,
+#life-carousel-down {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5em;
+  line-height: 1;
+  padding: 0.2em;
+  color: var(--main-color);
+}
+
+@media (max-width: 768px) {
+  .weeks-grid {
+    gap: 1px;
+  }
+
+  .week {
+    width: calc((100vw - 40px - 51px) / 52);
+    height: calc((100vw - 40px - 51px) / 52);
+    min-width: 5px;
+    min-height: 5px;
+  }
+}

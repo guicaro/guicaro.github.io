@@ -1,5 +1,5 @@
-title: Guillermo
-description: Personal site for Guillermo Cabrera
+title: Guillermo | Dad | Computer Science Aprentice
+description: About Guillermo Cabrera
 
 url: http://www.guicaro.com
 baseurl: ""
@@ -18,14 +18,14 @@ compress_html:
     envs: []
 
 navigation:
- - title: Home
-   url: /
- - title: Blog
-   url: /blog/
- - title: Projects
-   url: /projects
  - title: About
    url: /about
+ - title: Blog
+   url: /blog/
+ - title: Life
+   url: /life/
+ - title: Projects
+   url: /projects
  - title: Resume
    url: /resume
  - title: Contact 

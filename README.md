@@ -1,6 +1,7 @@
 # guicaro.github.io
 
 Personal Jekyll website for `www.guicaro.com`, styled with a local jekyllBear-inspired theme.
+https://github.com/knhash/jekyllBear
 
 ## Requirements
 

@@ -1,0 +1,89 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<main>
+  {% include header.html %}
+
+  <article class="life-in-weeks">
+    <h1>{{ page.title }}</h1>
+
+    {{ content }}
+
+    {% assign data = site.data[page.datafile] %}
+    {% assign start_date = page.start_date %}
+    {% assign split_start = start_date | split: "-" %}
+    {% assign start_year = split_start[0] | plus: 0 %}
+    {% assign end_year = page.end_year | plus: 0 %}
+
+    <div id="life-carousel-container" data-start-date="{{ page.start_date }}">
+      <div class="life-carousel-controls">
+        <button id="life-carousel-up" aria-label="Previous event"><span aria-hidden="true">&#9650;</span></button>
+        <button id="life-carousel-down" aria-label="Next event"><span aria-hidden="true">&#9660;</span></button>
+      </div>
+      <blockquote class="life-carousel-quote">
+        <span id="life-carousel-quote"></span>
+        <span id="life-carousel-meta"></span>
+      </blockquote>
+    </div>
+
+    {% capture events_json %}[
+      {% assign first = true %}
+      {% for event_date in data %}
+        {% assign date = event_date[0] %}
+        {% for event in event_date[1] %}
+          {% unless first %},{% endunless %}{"name":{{ event.name | jsonify }},"desc":{{ event.desc | jsonify }},"date":{{ date | jsonify }}}
+          {% assign first = false %}
+        {% endfor %}
+      {% endfor %}
+    ]{% endcapture %}
+    <script id="life-in-weeks-events-json" type="application/json">{{ events_json | strip }}</script>
+
+    <div class="weeks-grid">
+      {% assign total_years = end_year | minus: start_year | plus: 1 %}
+      {% assign total_weeks = total_years | times: 52 %}
+      {% assign week_index = 0 %}
+      {% for unused in (1..total_weeks) %}
+        {% assign decade = week_index | divided_by: 520 %}
+        {% assign age = week_index | divided_by: 52 %}
+        {% assign current_year = start_year | plus: age %}
+        {% assign current_week = week_index | modulo: 52 | plus: 1 %}
+        {% assign week_has_events = false %}
+
+        {% for event_date in data %}
+          {% assign event_date_parsed = event_date[0] | date: "%s" %}
+          {% assign start_date_parsed = start_date | date: "%s" %}
+          {% assign seconds_diff = event_date_parsed | minus: start_date_parsed %}
+          {% assign weeks_diff = seconds_diff | divided_by: 604800 %}
+          {% if weeks_diff == week_index %}
+            {% assign week_has_events = true %}
+          {% endif %}
+        {% endfor %}
+
+        {% assign today_year = "now" | date: "%Y" | plus: 0 %}
+        {% assign today_week = "now" | date: "%U" | plus: 1 %}
+        {% assign is_future = false %}
+        {% assign is_current = false %}
+        {% if current_year > today_year %}
+          {% assign is_future = true %}
+        {% elsif current_year == today_year and current_week > today_week %}
+          {% assign is_future = true %}
+        {% elsif current_year == today_year and current_week == today_week %}
+          {% assign is_current = true %}
+        {% endif %}
+
+        {% assign decade_mod = decade | modulo: 2 %}
+        <div class="week decade-{{ decade_mod }}{% if week_has_events %} has-events{% endif %}{% if is_future %} future{% endif %}{% if is_current %} current{% endif %}" data-week-number="{{ week_index }}"></div>
+        {% assign week_index = week_index | plus: 1 %}
+      {% endfor %}
+    </div>
+  </article>
+</main>
+
+{% include footer.html %}
+<script src="{{ '/assets/life-carousel.js' | relative_url }}"></script>
+
+</body>
+</html>
