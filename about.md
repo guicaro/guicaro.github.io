@@ -23,7 +23,7 @@ I graduated in December 2010 from the masters program at the [computer science d
 
 * 1 of 75 students selected to participate in [Google Grad CS Forum][google]
 * I was an amateur bullfighter a few years ago and was helping 1 of 3 [bullfighting schools][borba] in USA
-* Presented to former IBM CEO (Sam Palmisano) back in 2010
+* Presented project on Big Data (Clustering and visualization of Twitter corpus) to former IBM CEO (Sam Palmisano) back in 2010
 <center>
 <img src="{{ '/assets/img/sam.jpg' | prepend: site.baseurl }}" alt="" tyle="max-height:300px">
 </center>
