@@ -14,9 +14,9 @@ I graduated in December 2010 from the masters program at the [computer science d
 ## Interests
 
 * Database systems (Efficient storage, querying, indexing)
-* Big data (Apache Hadoop, Apache Spark)
-* Mobile computing (wireless sensor networks, iOS, Android)
-* Quantified Self
+* Processing large ammounts of information in distributed network (ex. Apache Hadoop, Apache Spark)
+* Mobile computing (wireless sensor networks, adhoc networks, lora)
+* Quantified Self and bio hacking (mesuring using technology, self learning via numbers and experiments)
 
 
 ## Random stuff
